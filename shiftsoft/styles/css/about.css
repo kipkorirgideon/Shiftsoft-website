@@ -1,0 +1,12 @@
+.about{
+    text-decoration: solid;
+    font-family: 'Noto Serif JP', serif;
+    font-weight: 700;
+    text-align: center;
+}
+
+.about-content{
+   margin-top: 20px;
+   vertical-align: inherit;
+   
+}
